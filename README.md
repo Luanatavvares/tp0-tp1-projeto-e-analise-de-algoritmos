@@ -10,11 +10,11 @@ Cada diretório possui um projeto independente, acompanhado de um **README próp
 
 ###  TP0 — Geração de Obras de Arte Aleatórias  
 Introdução à disciplina, explorando manipulação de matrizes e uso de números aleatórios para gerar “quadros artísticos” formados por figuras simples.  
-O README detalhado encontra-se dentro da pasta **TP0_PAA_LUANA_5364**.
+O README detalhado encontra-se dentro da pasta **TP0_LUANA_5364**.
 
 ### TP1 — Navegação em Labirintos com Backtracking  
 Implementação de um resolvedor de labirintos, com leitura de arquivos, busca recursiva, marcação de caminhos visitados e possibilidade de criar labirintos aleatórios.  
-O README completo está localizado na pasta **TP1_PAA_LUANA_5364**.
+O README completo está localizado na pasta **TP1_ALINE_5791_LUANA_5364**.
 
 ## Tecnologias Utilizadas
 
